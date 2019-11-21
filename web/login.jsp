@@ -16,6 +16,7 @@
         <div class="contenedor">
             <div class="c-cabecera">
                 <h1>INICIAR SESIÓN</h1>
+                 <h1>INICIAR SESIÓN</h1>
             </div>
             <div class="c-datos">
                 <form action="ServletAdministrador" method="POST">
